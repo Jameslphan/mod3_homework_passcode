@@ -31,7 +31,7 @@ The purpose of this exercise is to create a randomly generated password using Ja
 
 ## Link to Deployed Site
 
-- https://jameslphan.github.io/mod2_homework_portfolio/
+- https://jameslphan.github.io/mod3_homework_passcode/
 
 ### Credits
 - Author: JamesLPhan
