@@ -27,7 +27,7 @@ The purpose of this exercise is to create a randomly generated password using Ja
 
 ## Screenshot
 
-![Password](/assets/images/Password/ Generator.jpeg "Password Generator")
+![Password](/assets/images/"Password Generator.jpeg" "Password Generator")
 
 ## Link to Deployed Site
 
